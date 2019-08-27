@@ -1,0 +1,28 @@
+/* body {
+    background: red
+} */
+
+nav{
+    background: blueviolet;
+    color: #fff;
+    padding: 0 1em
+}
+nav > div {
+    display: inline-block
+}
+nav ul li {
+    display: inline-block
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none
+}
+nav ul {
+    display: inline-block;
+}
+nav a:visited {
+    color: #fff;
+    text-decoration: none;
+
+}
